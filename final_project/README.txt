@@ -1,3 +1,4 @@
+(Created for a freshman-level C++ class)
 This program is a small text-based game where you navigate through the forest.
 It will save your journey to a text file as well.
 
